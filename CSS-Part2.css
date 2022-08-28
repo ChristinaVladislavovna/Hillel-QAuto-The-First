@@ -1,0 +1,59 @@
+body {
+    color: black;
+}
+
+h1{
+  background-color: #0057BB;
+  color: #FFD700
+   border: 2px dotted black; 
+   border: double; 
+   border-color: yellow;
+   border-bottom-color: coral 
+    border: 2px solid red;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-color: coral 
+    border-color: yellow; 
+  font: italic bold 12px/30px Georgia, serif; 
+  font-size: 20px;
+letter-spacing: 3px; 
+opacity: 0.9; 
+  padding: 2.5%; 
+     position: absolute; 
+     left: 200px;
+     top: -4px;
+     }
+     
+h2 {
+position: absolute;
+right: 50px;
+top: 100px;
+font-size: 30px;
+  text-decoration: underline; 
+  text-decoration-color: blue; 
+  text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+   text-indent: -90px; 
+   text-shadow: 2px 2px yellow; 
+}
+
+h3{
+  text-align: justify;
+  text-transform: uppercase; 
+   vertical-align: sub; 
+     width: 150px; 
+    border: 1px solid red; 
+    border-color: blue;
+    word-spacing: 15px; 
+   padding: 25px;
+position: absolute;
+left: 300px;
+top: 160px;
+ font-weight: bold;
+  }
+
+<div>
+p1 {letter-spacing: 3px;}
+p2 {letter-spacing: 2px;}
+p3 {letter-spacing: 1px;}
+</div>
